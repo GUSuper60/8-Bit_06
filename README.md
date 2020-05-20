@@ -1,3 +1,3 @@
 # 8-Bit
 
-This repo is for team number 7.
+This repo is for team number 6.
