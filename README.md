@@ -33,7 +33,7 @@ gcc filename.c
 ### C++
 
 ```
-gcc filename.cpp
+g++ filename.cpp
 ./a.out
 ```
 
