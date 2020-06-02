@@ -64,4 +64,9 @@ python filename.py
 javac filename.java
 java filename
 ```
+### Table of Content
+
+| Platform | Question Link | Solution Link | Level | Language |
+| ------ | ------ |------ | ------ |  ------ | 
+| HackerEarth | [Will Rick Survive or Not](https://www.hackerearth.com/practice/data-structures/hash-tables/basics-of-hash-tables/practice-problems/algorithm/will-rick-survive-or-not-2/description/) |[Will Rick survive or not .py](https://github.com/navneetsn18/8-Bit_06/blob/master/%20Will%20Rick%20survive%20or%20not%20.py) | Medium | Python
 
