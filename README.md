@@ -16,6 +16,9 @@ This is the repository for team-6 containing source/code files of various algori
 The languages are, but not limited to rust, c/c++, python, java, etc.
 
 ---
+## Update this sheet on every new upload
+https://docs.google.com/spreadsheets/d/1eBhg56CNxLydBSi3oPziKGjJ8ib9P351ZGaD0StAci8/edit#gid=0
+
 
 ## These are the steps to execute the source-code files in various languages.
 
